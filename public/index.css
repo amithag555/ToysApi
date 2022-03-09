@@ -1,0 +1,27 @@
+body {
+  background: rgb(226, 223, 223);
+}
+.router_div {
+  min-height: 1600px;
+}
+
+.user_div {
+  min-height: 800px;
+}
+
+.router_div .req_div {
+  min-height: 80px;
+}
+
+.router_div .req_div .url_div {
+  background: rgb(165, 161, 161);
+  font-size: 18px;
+}
+
+.router_div .req_div .json_title {
+  background: rgb(173, 170, 170);
+}
+
+.router_div .req_div .json_div {
+  background: rgba(192, 185, 185, 0.774);
+}
